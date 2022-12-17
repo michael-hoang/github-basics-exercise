@@ -1,0 +1,2015 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.notion.so/Github-Basics-Exercise-1c12200326db47d7890702017602d698
+Subject: Github Basics Exercise
+Date: Sat, 17 Dec 2022 03:57:07 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----"
+
+
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/html
+Content-ID: <frame-FD55A48BBB7E9252AD28F6947250E839@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.notion.so/Github-Basics-Exercise-1c12200326db47d7890702017602d698
+
+<!DOCTYPE html><html class=3D"notion-html"><head lang=3D"en"><meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"sty=
+lesheet" type=3D"text/css" href=3D"cid:css-8c3eb261-90d5-476e-ae7a-59dc9708=
+c2b7@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:=
+css-c47d85e3-90da-42aa-ae0a-af400f9515ed@mhtml.blink" /><link rel=3D"styles=
+heet" type=3D"text/css" href=3D"cid:css-70ac673f-a597-460c-aa6a-3cf6c1c99d2=
+5@mhtml.blink" /><meta name=3D"viewport" content=3D"width=3Ddevice-width,he=
+ight=3Ddevice-height,initial-scale=3D1,maximum-scale=3D1,user-scalable=3Dno=
+,viewport-fit=3Dcover"><title>Github Basics Exercise </title><meta name=3D"=
+description" content=3D"A new tool that blends your everyday work apps into=
+ one. It's the all-in-one workspace for you and your team"><meta name=3D"tw=
+itter:card" content=3D"summary_large_image"><meta name=3D"twitter:site" con=
+tent=3D"@NotionHQ"><meta name=3D"twitter:title" content=3D"Notion =E2=80=93=
+ The all-in-one workspace for your notes, tasks, wikis, and databases."><me=
+ta name=3D"twitter:description" content=3D"A new tool that blends your ever=
+yday work apps into one. It's the all-in-one workspace for you and your tea=
+m"><meta name=3D"twitter:url" content=3D"https://www.notion.so"><meta name=
+=3D"twitter:image" content=3D"https://www.notion.so/images/meta/default.png=
+"><meta property=3D"og:site_name" content=3D"Notion"><meta property=3D"og:t=
+ype" content=3D"website"><meta property=3D"og:url" content=3D"https://www.n=
+otion.so"><meta property=3D"og:title" content=3D"Notion =E2=80=93 The all-i=
+n-one workspace for your notes, tasks, wikis, and databases."><meta propert=
+y=3D"og:description" content=3D"A new tool that blends your everyday work a=
+pps into one. It's the all-in-one workspace for you and your team"><meta pr=
+operty=3D"og:image" content=3D"https://www.notion.so/images/meta/default.pn=
+g"><meta property=3D"og:locale" content=3D"en_US"><link rel=3D"shortcut ico=
+n" type=3D"image/x-icon" href=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhE=
+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
+I=3D"><link rel=3D"apple-touch-icon" href=3D"https://www.notion.so/images/l=
+ogo-ios.png"><meta name=3D"apple-mobile-web-app-capable" content=3D"yes"><m=
+eta name=3D"apple-itunes-app" content=3D"app-id=3D1232780281"><meta name=3D=
+"format-detection" content=3D"telephone=3Dno"><meta name=3D"msapplication-t=
+ap-highlight" content=3D"no"><meta name=3D"slack-app-id" content=3D"A049JV0=
+H0KC"><link href=3D"https://www.notion.so/print.b31f28aa.css" rel=3D"styles=
+heet" media=3D"print"><link href=3D"https://www.notion.so/app-458b27cf2746f=
+a5c5a6a.css" rel=3D"stylesheet"></head><body class=3D"notion-body"><div id=
+=3D"notion-app"><div class=3D"notion-app-inner notion-light-theme" style=3D=
+"color: rgb(55, 53, 47); fill: currentcolor; line-height: 1.5; font-family:=
+ ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, He=
+lvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Segoe UI E=
+moji&quot;, &quot;Segoe UI Symbol&quot;; -webkit-font-smoothing: auto; back=
+ground-color: white;"><div style=3D"height: 100%;"><div class=3D"notion-cur=
+sor-listener" style=3D"width: 100vw; height: 100%; position: relative; disp=
+lay: flex; flex: 1 1 0%; background: white; cursor: text;"><div class=3D"" =
+style=3D"display: flex; flex-direction: column; width: 100%; overflow: hidd=
+en;"><div style=3D"max-width: 100vw; z-index: 100; background: white; user-=
+select: none;"><div class=3D"notion-topbar" style=3D"width: 100%; max-width=
+: 100vw; height: 45px; opacity: 1; transition: opacity 700ms ease 0s, color=
+ 700ms ease 0s; position: relative;"><div style=3D"display: flex; justify-c=
+ontent: space-between; align-items: center; overflow: hidden; height: 45px;=
+ padding-left: 12px; padding-right: 10px;"><div class=3D"notranslate" style=
+=3D"display: flex; align-items: center; line-height: 1.2; font-size: 14px; =
+height: 100%; flex-grow: 0; margin-right: 8px; min-width: 0px;"><div class=
+=3D"notion-focusable" role=3D"button" tabindex=3D"0" style=3D"user-select: =
+none; transition: background 20ms ease-in 0s; cursor: pointer; display: inl=
+ine-flex; align-items: center; flex-shrink: 1; white-space: nowrap; height:=
+ 24px; border-radius: 4px; font-size: 14px; line-height: 1.2; min-width: 0p=
+x; padding-left: 6px; padding-right: 6px; color: rgb(55, 53, 47);"><div cla=
+ss=3D"notion-record-icon notranslate" style=3D"display: flex; align-items: =
+center; justify-content: center; height: 20px; width: 20px; border-radius: =
+0.25em; flex-shrink: 0; margin-right: 6px;"><div><div style=3D"width: 100%;=
+ height: 100%;"><img src=3D"https://www.notion.so/image/https%3A%2F%2Fs3-us=
+-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55e2e410-0187-4558-9abc-=
+7950132ea7d5%2FOctocat.png?table=3Dblock&amp;id=3D1c122003-26db-47d7-8907-0=
+2017602d698&amp;spaceId=3De27c5d62-901a-4553-9c27-b48cbeddd84a&amp;width=3D=
+40&amp;userId=3D&amp;cache=3Dv2" referrerpolicy=3D"same-origin" style=3D"di=
+splay: block; object-fit: cover; border-radius: 3px; width: 17.76px; height=
+: 17.76px; transition: opacity 100ms ease-out 0s;"></div></div></div><div c=
+lass=3D"notranslate" style=3D"white-space: nowrap; overflow: hidden; text-o=
+verflow: ellipsis; max-width: 240px;">Github Basics Exercise </div></div></=
+div><div style=3D"flex-grow: 1; flex-shrink: 1;"></div><div class=3D"notion=
+-focusable" role=3D"button" tabindex=3D"0" style=3D"user-select: none; tran=
+sition: background 20ms ease-in 0s; cursor: pointer; display: inline-flex; =
+align-items: center; flex-shrink: 0; white-space: nowrap; height: 28px; bor=
+der-radius: 4px; font-size: 14px; line-height: 1.2; min-width: 0px; padding=
+-left: 8px; padding-right: 8px; color: rgb(55, 53, 47);"><svg viewBox=3D"0 =
+0 17 17" class=3D"searchNew" style=3D"width: 14px; height: 14px; display: b=
+lock; fill: inherit; flex-shrink: 0; backface-visibility: hidden; margin-ri=
+ght: 6px;"><path d=3D"M6.78027 13.6729C8.24805 13.6729 9.60156 13.1982 10.7=
+09 12.4072L14.875 16.5732C15.0684 16.7666 15.3232 16.8633 15.5957 16.8633C1=
+6.167 16.8633 16.5713 16.4238 16.5713 15.8613C16.5713 15.5977 16.4834 15.35=
+16 16.29 15.1582L12.1504 11.0098C13.0205 9.86719 13.5391 8.45215 13.5391 6.=
+91406C13.5391 3.19629 10.498 0.155273 6.78027 0.155273C3.0625 0.155273 0.02=
+14844 3.19629 0.0214844 6.91406C0.0214844 10.6318 3.0625 13.6729 6.78027 13=
+.6729ZM6.78027 12.2139C3.87988 12.2139 1.48047 9.81445 1.48047 6.91406C1.48=
+047 4.01367 3.87988 1.61426 6.78027 1.61426C9.68066 1.61426 12.0801 4.01367=
+ 12.0801 6.91406C12.0801 9.81445 9.68066 12.2139 6.78027 12.2139Z"></path><=
+/svg>Search</div><div class=3D"notion-focusable" role=3D"button" tabindex=
+=3D"0" style=3D"user-select: none; transition: background 20ms ease-in 0s; =
+cursor: pointer; display: inline-flex; align-items: center; flex-shrink: 0;=
+ white-space: nowrap; height: 28px; border-radius: 4px; font-size: 14px; li=
+ne-height: 1.2; min-width: 0px; padding-left: 8px; padding-right: 8px; colo=
+r: rgb(55, 53, 47);">Duplicate</div><div class=3D"notion-focusable" role=3D=
+"button" tabindex=3D"0" style=3D"user-select: none; transition: background =
+20ms ease-in 0s; cursor: pointer; display: flex; align-items: center; justi=
+fy-content: center; width: 32px; height: 28px; border-radius: 3px;"><svg vi=
+ewBox=3D"0 0 13 3" class=3D"dots" style=3D"width: 18px; height: 18px; displ=
+ay: block; fill: inherit; flex-shrink: 0; backface-visibility: hidden;"><g>=
+<path d=3D"M3,1.5A1.5,1.5,0,1,1,1.5,0,1.5,1.5,0,0,1,3,1.5Z"></path><path d=
+=3D"M8,1.5A1.5,1.5,0,1,1,6.5,0,1.5,1.5,0,0,1,8,1.5Z"></path><path d=3D"M13,=
+1.5A1.5,1.5,0,1,1,11.5,0,1.5,1.5,0,0,1,13,1.5Z"></path></g></svg></div><div=
+ style=3D"flex: 0 0 auto; width: 1px; height: 16px; margin-left: 8px; margi=
+n-right: 8px; background: rgba(55, 53, 47, 0.16);"></div><div class=3D"noti=
+on-focusable" role=3D"button" tabindex=3D"0" style=3D"user-select: none; tr=
+ansition: background 20ms ease-in 0s; cursor: pointer; display: inline-flex=
+; align-items: center; flex-shrink: 0; white-space: nowrap; height: 28px; b=
+order-radius: 4px; font-size: 14px; line-height: 1.2; min-width: 0px; paddi=
+ng-left: 8px; padding-right: 8px; color: rgb(55, 53, 47);"><svg viewBox=3D"=
+0 0 120 126" class=3D"notionLogo" style=3D"width: 18px; height: 18px; displ=
+ay: block; fill: inherit; flex-shrink: 0; backface-visibility: hidden; marg=
+in-right: 6px;"><path d=3D"M 20.6927 21.9315C 24.5836 25.0924 26.0432 24.85=
+12 33.3492 24.3638L 102.228 20.2279C 103.689 20.2279 102.474 18.7705 101.98=
+7 18.5283L 90.5477 10.2586C 88.3558 8.55699 85.4356 6.60818 79.8387 7.09563=
+L 13.1433 11.9602C 10.711 12.2014 10.2251 13.4175 11.1939 14.3924L 20.6927 =
+21.9315ZM 24.8281 37.9835L 24.8281 110.456C 24.8281 114.351 26.7745 115.808=
+ 31.1553 115.567L 106.853 111.187C 111.236 110.946 111.724 108.267 111.724 =
+105.103L 111.724 33.1169C 111.724 29.958 110.509 28.2544 107.826 28.4976L 2=
+8.721 33.1169C 25.8018 33.3622 24.8281 34.8225 24.8281 37.9835ZM 99.5567 41=
+.8711C 100.042 44.0622 99.5567 46.2512 97.3618 46.4974L 93.7143 47.2241L 93=
+.7143 100.728C 90.5477 102.43 87.6275 103.403 85.1942 103.403C 81.2983 103.=
+403 80.3226 102.186 77.4044 98.54L 53.5471 61.087L 53.5471 97.3239L 61.0964=
+ 99.0275C 61.0964 99.0275 61.0964 103.403 55.0057 103.403L 38.2148 104.377C=
+ 37.727 103.403 38.2148 100.973 39.9179 100.486L 44.2996 99.2717L 44.2996 5=
+1.36L 38.2158 50.8725C 37.728 48.6815 38.9431 45.5225 42.3532 45.2773L 60.3=
+661 44.0631L 85.1942 82.0036L 85.1942 48.4402L 78.864 47.7136C 78.3781 45.0=
+351 80.3226 43.0902 82.7569 42.849L 99.5567 41.8711ZM 7.5434 5.39404L 76.91=
+75 0.285276C 85.4366 -0.445402 87.6285 0.0440428 92.983 3.93368L 115.128 19=
+.4982C 118.782 22.1747 120 22.9034 120 25.8211L 120 111.187C 120 116.537 11=
+8.051 119.701 111.237 120.185L 30.6734 125.05C 25.5584 125.294 23.124 124.5=
+65 20.4453 121.158L 4.13735 99.9994C 1.21516 96.1048 0 93.191 0 89.7819L 0 =
+13.903C 0 9.5279 1.94945 5.8785 7.5434 5.39404Z"></path></svg>Try Notion</d=
+iv></div></div><div style=3D"width: calc(100% - 0px); user-select: none;"><=
+/div></div><div class=3D"notion-frame" style=3D"flex-grow: 0; flex-shrink: =
+1; display: flex; flex-direction: column; background: white; z-index: 1; he=
+ight: calc(100vh - 45px); max-height: 100%; position: relative; width: 1920=
+px;"><div class=3D"notion-scroller vertical" style=3D"display: flex; flex-d=
+irection: column; z-index: 1; flex-grow: 1; position: relative; align-items=
+: center; margin-right: 0px; margin-bottom: 0px; overflow: hidden auto;"><d=
+iv style=3D"position: absolute; top: 0px; left: 0px;"><div></div></div><div=
+ class=3D"whenContentEditable" data-content-editable-root=3D"true" style=3D=
+"caret-color: rgb(55, 53, 47); width: 100%; display: flex; flex-direction: =
+column; position: relative; align-items: center; flex-grow: 1; --whenConten=
+tEditable--WebkitUserModify:read-write-plaintext-only;"><span style=3D"heig=
+ht: 1px; width: 1px;"></span><div contenteditable=3D"false" class=3D"pseudo=
+Selection" data-content-editable-void=3D"true" style=3D"user-select: none; =
+--pseudoSelection--background:transparent; width: 100%; display: flex; flex=
+-direction: column; align-items: center; flex-shrink: 0; flex-grow: 0; z-in=
+dex: 2;"><div style=3D"position: relative; width: 100%; display: flex; flex=
+-direction: column; align-items: center; height: 30vh; cursor: default;"><d=
+iv style=3D"width: 100%; cursor: inherit;"><div style=3D"display: grid; wid=
+th: 100%; height: 30vh;"><div style=3D"grid-area: 1 / 1 / auto / auto; widt=
+h: 100%; height: 100%;"><img src=3D"https://www.notion.so/images/page-cover=
+/solid_yellow.png" referrerpolicy=3D"same-origin" style=3D"display: block; =
+object-fit: cover; border-radius: 0px; width: 100%; height: 30vh; opacity: =
+1; object-position: center 40%;"></div></div></div><div aria-hidden=3D"true=
+" style=3D"background: rgba(0, 0, 0, 0.4); border-radius: 3px; color: white=
+; font-size: 12px; font-family: ui-sans-serif, -apple-system, BlinkMacSyste=
+mFont, &quot;Segoe UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Aria=
+l, sans-serif, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; wid=
+th: 180px; left: calc(50% - 90px); padding: 0.3em 1.5em; pointer-events: no=
+ne; position: absolute; top: calc(50% - 10px); text-align: center; opacity:=
+ 0;">Drag image to reposition</div></div></div><div style=3D"width: 100%; d=
+isplay: flex; justify-content: center; z-index: 3; flex-shrink: 0;"><div st=
+yle=3D"max-width: 100%; min-width: 0px; width: 900px;"><div style=3D"width:=
+ 100%; display: flex; flex-direction: column; align-items: center; flex-shr=
+ink: 0; flex-grow: 0;"><div style=3D"max-width: 100%; padding-left: calc(96=
+px + env(safe-area-inset-left)); width: 100%;"><div contenteditable=3D"fals=
+e" class=3D"pseudoSelection" data-content-editable-void=3D"true" style=3D"u=
+ser-select: none; --pseudoSelection--background:transparent; pointer-events=
+: none;"><div class=3D"notion-record-icon notranslate" style=3D"display: fl=
+ex; align-items: center; justify-content: center; height: 140px; width: 140=
+px; border-radius: 0.25em; flex-shrink: 0; position: relative; z-index: 1; =
+margin-left: 3px; margin-bottom: 0px; margin-top: -80px; pointer-events: au=
+to;"><div><div style=3D"width: 100%; height: 100%;"><img src=3D"https://www=
+.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-s=
+tatic.com%2F55e2e410-0187-4558-9abc-7950132ea7d5%2FOctocat.png?table=3Dbloc=
+k&amp;id=3D1c122003-26db-47d7-8907-02017602d698&amp;spaceId=3De27c5d62-901a=
+-4553-9c27-b48cbeddd84a&amp;width=3D250&amp;userId=3D&amp;cache=3Dv2" refer=
+rerpolicy=3D"same-origin" style=3D"display: block; object-fit: cover; borde=
+r-radius: 3px; width: 124.32px; height: 124.32px; transition: opacity 100ms=
+ ease-out 0s;"></div></div></div><div class=3D"notion-page-controls" style=
+=3D"display: flex; justify-content: flex-start; flex-wrap: wrap; margin-top=
+: 8px; margin-bottom: 4px; margin-left: -1px; color: rgba(55, 53, 47, 0.5);=
+ font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe=
+ UI&quot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &qu=
+ot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; height: 24px; pointer=
+-events: auto;"></div></div><div style=3D"padding-right: calc(96px + env(sa=
+fe-area-inset-right));"><div><div data-block-id=3D"1c122003-26db-47d7-8907-=
+02017602d698" class=3D"notion-selectable notion-page-block" style=3D"color:=
+ rgb(55, 53, 47); font-weight: 700; line-height: 1.2; font-size: 40px; font=
+-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&q=
+uot;, Helvetica, &quot;Apple Color Emoji&quot;, Arial, sans-serif, &quot;Se=
+goe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; cursor: text; display: fle=
+x; align-items: center;"><div spellcheck=3D"true" placeholder=3D"Untitled" =
+data-content-editable-leaf=3D"true" contenteditable=3D"false" style=3D"max-=
+width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; ca=
+ret-color: rgb(55, 53, 47); padding: 3px 2px;">Github Basics Exercise </div=
+></div><div style=3D"margin-left: 4px;"></div></div></div></div></div><div =
+style=3D"width: 100%; display: flex; flex-direction: column; align-items: c=
+enter; flex-shrink: 0; flex-grow: 0;"><div contenteditable=3D"false" data-c=
+ontent-editable-void=3D"true" style=3D"padding-left: calc(96px + env(safe-a=
+rea-inset-left)); padding-right: calc(96px + env(safe-area-inset-right)); m=
+ax-width: 100%; width: 100%;"></div></div></div></div><main style=3D"displa=
+y: flex; width: 100%; justify-content: center; padding-top: 5px;"><div styl=
+e=3D"max-width: 100%; min-width: 0px; width: 900px;"><div class=3D"notion-p=
+age-content" style=3D"flex-shrink: 0; flex-grow: 1; max-width: 100%; displa=
+y: flex; align-items: flex-start; flex-direction: column; font-size: 16px; =
+line-height: 1.5; width: 100%; z-index: 4; padding-bottom: 30vh; padding-le=
+ft: calc(96px + env(safe-area-inset-left)); padding-right: calc(96px + env(=
+safe-area-inset-right));"><div data-block-id=3D"ab406aee-0625-4a15-8e12-897=
+747f9375b" class=3D"notion-selectable notion-numbered_list-block" style=3D"=
+width: 100%; max-width: 1718px; margin-top: 2px; margin-bottom: 1px;"><div =
+style=3D"display: flex; align-items: flex-start; width: 100%; padding-left:=
+ 2px; color: inherit; fill: inherit;"><div contenteditable=3D"false" class=
+=3D"pseudoSelection" data-content-editable-void=3D"true" data-text-edit-sid=
+e=3D"start" style=3D"user-select: none; --pseudoSelection--background:trans=
+parent; margin-right: 2px; width: unset; display: flex; align-items: center=
+; justify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1=
+.5em + 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--c=
+ontent:&quot;1.&quot;; text-align: center; white-space: nowrap; width: 24px=
+;"></span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex;=
+ flex-direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"=
+true" placeholder=3D"List" data-content-editable-leaf=3D"true" contentedita=
+ble=3D"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap;=
+ word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; te=
+xt-align: left;">Create a new repository locally on your machine.</div></di=
+v></div></div></div><div data-block-id=3D"4129aca4-cf10-4828-aa1c-1a2543e39=
+79f" class=3D"notion-selectable notion-numbered_list-block" style=3D"width:=
+ 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div style=
+=3D"display: flex; align-items: flex-start; width: 100%; padding-left: 2px;=
+ color: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"ps=
+eudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"s=
+tart" style=3D"user-select: none; --pseudoSelection--background:transparent=
+; margin-right: 2px; width: unset; display: flex; align-items: center; just=
+ify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em +=
+ 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content=
+:&quot;2.&quot;; text-align: center; white-space: nowrap; width: 24px;"></s=
+pan></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-=
+direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" =
+placeholder=3D"List" data-content-editable-leaf=3D"true" contenteditable=3D=
+"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-=
+break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-ali=
+gn: left;">Create a new Github repository. Name it whatever you want.</div>=
+</div></div></div></div><div data-block-id=3D"f3c499b4-9658-4b9c-b005-73ab9=
+4e8668b" class=3D"notion-selectable notion-numbered_list-block" style=3D"wi=
+dth: 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div st=
+yle=3D"display: flex; align-items: flex-start; width: 100%; padding-left: 2=
+px; color: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D=
+"pseudoSelection" data-content-editable-void=3D"true" data-text-edit-side=
+=3D"start" style=3D"user-select: none; --pseudoSelection--background:transp=
+arent; margin-right: 2px; width: unset; display: flex; align-items: center;=
+ justify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.=
+5em + 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--co=
+ntent:&quot;3.&quot;; text-align: center; white-space: nowrap; width: 24px;=
+"></span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; =
+flex-direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"t=
+rue" placeholder=3D"List" data-content-editable-leaf=3D"true" contenteditab=
+le=3D"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; =
+word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; tex=
+t-align: left;">Connect your local repo to the Github repo.</div></div></di=
+v></div></div><div data-block-id=3D"971a78c8-d7e9-46b6-81a2-cfbd3274b8ed" c=
+lass=3D"notion-selectable notion-numbered_list-block" style=3D"width: 100%;=
+ max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"dis=
+play: flex; align-items: flex-start; width: 100%; padding-left: 2px; color:=
+ inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"pseudoSel=
+ection" data-content-editable-void=3D"true" data-text-edit-side=3D"start" s=
+tyle=3D"user-select: none; --pseudoSelection--background:transparent; margi=
+n-right: 2px; width: unset; display: flex; align-items: center; justify-con=
+tent: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 3px + =
+3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content:&quot;=
+4.&quot;; text-align: center; white-space: nowrap; width: 24px;"></span></d=
+iv><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-directi=
+on: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeho=
+lder=3D"List" data-content-editable-leaf=3D"true" contenteditable=3D"false"=
+ style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break: =
+break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: lef=
+t;"><span style=3D"color:rgba(68, 131, 97, 1);fill:rgba(68, 131, 97, 1)" da=
+ta-token-index=3D"0" class=3D"notion-enable-hover">Optional: rename the def=
+ault branch from master to main.</span></div></div></div></div></div><div d=
+ata-block-id=3D"5ce662c7-d894-439e-baff-e87d075f92bb" class=3D"notion-selec=
+table notion-numbered_list-block" style=3D"width: 100%; max-width: 1718px; =
+margin-top: 1px; margin-bottom: 1px;"><div style=3D"display: flex; align-it=
+ems: flex-start; width: 100%; padding-left: 2px; color: inherit; fill: inhe=
+rit;"><div contenteditable=3D"false" class=3D"pseudoSelection" data-content=
+-editable-void=3D"true" data-text-edit-side=3D"start" style=3D"user-select:=
+ none; --pseudoSelection--background:transparent; margin-right: 2px; width:=
+ unset; display: flex; align-items: center; justify-content: center; flex-g=
+row: 0; flex-shrink: 0; min-height: calc(1.5em + 3px + 3px);"><span class=
+=3D"pseudoBefore" style=3D"--pseudoBefore--content:&quot;5.&quot;; text-ali=
+gn: center; white-space: nowrap; width: 24px;"></span></div><div style=3D"f=
+lex: 1 1 0px; min-width: 1px; display: flex; flex-direction: column;"><div =
+style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D"List" data=
+-content-editable-leaf=3D"true" contenteditable=3D"false" style=3D"max-widt=
+h: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-=
+color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">Make a new fil=
+e called <span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Cons=
+olas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;=
+line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-r=
+adius:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"1" spellch=
+eck=3D"false" class=3D"notion-enable-hover">favorites.txt</span>  Leave it =
+empty. Make your first commit on the <span style=3D"font-family:&quot;SFMon=
+o-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mon=
+o&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,=
+0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em" da=
+ta-token-index=3D"3" spellcheck=3D"false" class=3D"notion-enable-hover">mai=
+n</span> branch.</div></div></div></div></div><div data-block-id=3D"a9ad5c0=
+a-0c6c-41e2-8558-b83d89773397" class=3D"notion-selectable notion-numbered_l=
+ist-block" style=3D"width: 100%; max-width: 1718px; margin-top: 1px; margin=
+-bottom: 1px;"><div style=3D"display: flex; align-items: flex-start; width:=
+ 100%; padding-left: 2px; color: inherit; fill: inherit;"><div contentedita=
+ble=3D"false" class=3D"pseudoSelection" data-content-editable-void=3D"true"=
+ data-text-edit-side=3D"start" style=3D"user-select: none; --pseudoSelectio=
+n--background:transparent; margin-right: 2px; width: unset; display: flex; =
+align-items: center; justify-content: center; flex-grow: 0; flex-shrink: 0;=
+ min-height: calc(1.5em + 3px + 3px);"><span class=3D"pseudoBefore" style=
+=3D"--pseudoBefore--content:&quot;6.&quot;; text-align: center; white-space=
+: nowrap; width: 24px;"></span></div><div style=3D"flex: 1 1 0px; min-width=
+: 1px; display: flex; flex-direction: column;"><div style=3D"display: flex;=
+"><div spellcheck=3D"true" placeholder=3D"List" data-content-editable-leaf=
+=3D"true" contenteditable=3D"false" style=3D"max-width: 100%; width: 100%; =
+white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47)=
+; padding: 3px 2px; text-align: left;">Push up your <span style=3D"font-fam=
+ily:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot=
+;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rg=
+ba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:=
+0.2em 0.4em" data-token-index=3D"1" spellcheck=3D"false" class=3D"notion-en=
+able-hover">main</span> branch to Github! Make sure you see your empty <spa=
+n style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;P=
+T Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:n=
+ormal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;fon=
+t-size:85%;padding:0.2em 0.4em" data-token-index=3D"3" spellcheck=3D"false"=
+ class=3D"notion-enable-hover">favorites.txt</span> file on Github.</div></=
+div></div></div></div><div data-block-id=3D"982578a1-50c8-4bbc-8f68-0592eac=
+58851" class=3D"notion-selectable notion-numbered_list-block" style=3D"widt=
+h: 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div styl=
+e=3D"display: flex; align-items: flex-start; width: 100%; padding-left: 2px=
+; color: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"p=
+seudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"=
+start" style=3D"user-select: none; --pseudoSelection--background:transparen=
+t; margin-right: 2px; width: unset; display: flex; align-items: center; jus=
+tify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em =
++ 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--conten=
+t:&quot;7.&quot;; text-align: center; white-space: nowrap; width: 24px;"></=
+span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex=
+-direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"true"=
+ placeholder=3D"List" data-content-editable-leaf=3D"true" contenteditable=
+=3D"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; wo=
+rd-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-=
+align: left;">Next, create two branches: <span style=3D"font-family:&quot;S=
+FMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation=
+ Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,=
+120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em=
+" data-token-index=3D"1" spellcheck=3D"false" class=3D"notion-enable-hover"=
+>foods</span> and <span style=3D"font-family:&quot;SFMono-Regular&quot;, Me=
+nlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, m=
+onospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757=
+;border-radius:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"3=
+" spellcheck=3D"false" class=3D"notion-enable-hover">movies</span></div></d=
+iv></div></div></div><div data-block-id=3D"afa9e552-0490-4a5a-9e15-c5a77c70=
+706c" class=3D"notion-selectable notion-numbered_list-block" style=3D"width=
+: 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div style=
+=3D"display: flex; align-items: flex-start; width: 100%; padding-left: 2px;=
+ color: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"ps=
+eudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D"s=
+tart" style=3D"user-select: none; --pseudoSelection--background:transparent=
+; margin-right: 2px; width: unset; display: flex; align-items: center; just=
+ify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em +=
+ 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content=
+:&quot;8.&quot;; text-align: center; white-space: nowrap; width: 24px;"></s=
+pan></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-=
+direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" =
+placeholder=3D"List" data-content-editable-leaf=3D"true" contenteditable=3D=
+"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-=
+break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-ali=
+gn: left;">Switch to the <span style=3D"font-family:&quot;SFMono-Regular&qu=
+ot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Cou=
+rier, monospace;line-height:normal;background:rgba(135,131,120,0.15);color:=
+#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em" data-token-ind=
+ex=3D"1" spellcheck=3D"false" class=3D"notion-enable-hover">foods</span> br=
+anch.  Add three (or more) of your favorite foods to the <span style=3D"fon=
+t-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, =
+&quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;backgrou=
+nd:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;pad=
+ding:0.2em 0.4em" data-token-index=3D"3" spellcheck=3D"false" class=3D"noti=
+on-enable-hover">favorites.txt</span> file.  Add and commit your changes on=
+ the <span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas=
+, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line=
+-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radiu=
+s:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"5" spellcheck=
+=3D"false" class=3D"notion-enable-hover">foods</span> branch.</div></div></=
+div></div></div><div data-block-id=3D"94931d29-eb3e-4050-9f7f-7f7d1f7fb28c"=
+ class=3D"notion-selectable notion-numbered_list-block" style=3D"width: 100=
+%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"d=
+isplay: flex; align-items: flex-start; width: 100%; padding-left: 2px; colo=
+r: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"pseudoS=
+election" data-content-editable-void=3D"true" data-text-edit-side=3D"start"=
+ style=3D"user-select: none; --pseudoSelection--background:transparent; mar=
+gin-right: 2px; width: unset; display: flex; align-items: center; justify-c=
+ontent: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 3px =
++ 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content:&quo=
+t;9.&quot;; text-align: center; white-space: nowrap; width: 24px;"></span><=
+/div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-direc=
+tion: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" place=
+holder=3D"List" data-content-editable-leaf=3D"true" contenteditable=3D"fals=
+e" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break=
+: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: l=
+eft;">Switch to the <span style=3D"font-family:&quot;SFMono-Regular&quot;, =
+Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier,=
+ monospace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB57=
+57;border-radius:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D=
+"1" spellcheck=3D"false" class=3D"notion-enable-hover">movies</span> branch=
+ and add three or more of your favorite movies to the <span style=3D"font-f=
+amily:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &qu=
+ot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:=
+rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;paddin=
+g:0.2em 0.4em" data-token-index=3D"3" spellcheck=3D"false" class=3D"notion-=
+enable-hover">favorites.txt</span> file.  Add and commit your changes on th=
+e movies branch.</div></div></div></div></div><div data-block-id=3D"b0076eb=
+7-632e-490f-902d-fc3c664d9d02" class=3D"notion-selectable notion-numbered_l=
+ist-block" style=3D"width: 100%; max-width: 1718px; margin-top: 1px; margin=
+-bottom: 1px;"><div style=3D"display: flex; align-items: flex-start; width:=
+ 100%; padding-left: 2px; color: inherit; fill: inherit;"><div contentedita=
+ble=3D"false" class=3D"pseudoSelection" data-content-editable-void=3D"true"=
+ data-text-edit-side=3D"start" style=3D"user-select: none; --pseudoSelectio=
+n--background:transparent; margin-right: 2px; width: unset; display: flex; =
+align-items: center; justify-content: center; flex-grow: 0; flex-shrink: 0;=
+ min-height: calc(1.5em + 3px + 3px);"><span class=3D"pseudoBefore" style=
+=3D"--pseudoBefore--content:&quot;10.&quot;; text-align: center; white-spac=
+e: nowrap; width: 24px;"></span></div><div style=3D"flex: 1 1 0px; min-widt=
+h: 1px; display: flex; flex-direction: column;"><div style=3D"display: flex=
+;"><div spellcheck=3D"true" placeholder=3D"List" data-content-editable-leaf=
+=3D"true" contenteditable=3D"false" style=3D"max-width: 100%; width: 100%; =
+white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47)=
+; padding: 3px 2px; text-align: left;">Push up your <span style=3D"font-fam=
+ily:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot=
+;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rg=
+ba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:=
+0.2em 0.4em" data-token-index=3D"1" spellcheck=3D"false" class=3D"notion-en=
+able-hover">foods</span> branch to Github. Make sure you see it on Github!<=
+/div></div></div></div></div><div data-block-id=3D"62d7e4aa-0f59-4359-82dc-=
+a3a9126be628" class=3D"notion-selectable notion-numbered_list-block" style=
+=3D"width: 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><=
+div style=3D"display: flex; align-items: flex-start; width: 100%; padding-l=
+eft: 2px; color: inherit; fill: inherit;"><div contenteditable=3D"false" cl=
+ass=3D"pseudoSelection" data-content-editable-void=3D"true" data-text-edit-=
+side=3D"start" style=3D"user-select: none; --pseudoSelection--background:tr=
+ansparent; margin-right: 2px; width: unset; display: flex; align-items: cen=
+ter; justify-content: center; flex-grow: 0; flex-shrink: 0; min-height: cal=
+c(1.5em + 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore=
+--content:&quot;11.&quot;; text-align: center; white-space: nowrap; width: =
+24px;"></span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: f=
+lex; flex-direction: column;"><div style=3D"display: flex;"><div spellcheck=
+=3D"true" placeholder=3D"List" data-content-editable-leaf=3D"true" contente=
+ditable=3D"false" style=3D"max-width: 100%; width: 100%; white-space: pre-w=
+rap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px=
+; text-align: left;">Push up your <span style=3D"font-family:&quot;SFMono-R=
+egular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&q=
+uot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,0.1=
+5);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em 0.4em" data-=
+token-index=3D"1" spellcheck=3D"false" class=3D"notion-enable-hover">movies=
+</span> branch to Github.  Make sure you see it on Github!</div></div></div=
+></div></div><div data-block-id=3D"206ec57a-c337-4936-adf3-5dfe7a43fc8d" cl=
+ass=3D"notion-selectable notion-numbered_list-block" style=3D"width: 100%; =
+max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div style=3D"disp=
+lay: flex; align-items: flex-start; width: 100%; padding-left: 2px; color: =
+inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"pseudoSele=
+ction" data-content-editable-void=3D"true" data-text-edit-side=3D"start" st=
+yle=3D"user-select: none; --pseudoSelection--background:transparent; margin=
+-right: 2px; width: unset; display: flex; align-items: center; justify-cont=
+ent: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em + 3px + 3=
+px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--content:&quot;1=
+2.&quot;; text-align: center; white-space: nowrap; width: 24px;"></span></d=
+iv><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; flex-directi=
+on: column;"><div style=3D"display: flex;"><div spellcheck=3D"true" placeho=
+lder=3D"List" data-content-editable-leaf=3D"true" contenteditable=3D"false"=
+ style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; word-break: =
+break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: lef=
+t;">Merge the <span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo,=
+ Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monos=
+pace;line-height:normal;background:rgba(135,131,120,0.15);color:#EB5757;bor=
+der-radius:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"1" sp=
+ellcheck=3D"false" class=3D"notion-enable-hover">foods</span> branch into t=
+he <span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, =
+&quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-h=
+eight:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:=
+3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"3" spellcheck=3D=
+"false" class=3D"notion-enable-hover">main</span> branch.  Then merge the <=
+span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quo=
+t;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-heigh=
+t:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;=
+font-size:85%;padding:0.2em 0.4em" data-token-index=3D"5" spellcheck=3D"fal=
+se" class=3D"notion-enable-hover">movies</span> branch into the <span style=
+=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&=
+quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;b=
+ackground:rgba(135,131,120,0.15);color:#EB5757;border-radius:3px;font-size:=
+85%;padding:0.2em 0.4em" data-token-index=3D"7" spellcheck=3D"false" class=
+=3D"notion-enable-hover">main</span> branch.  If necessary, resolve conflic=
+ts so that you end up with your favorite foods and favorite movies in the s=
+ame <span style=3D"font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas,=
+ &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-=
+height:normal;background:rgba(135,131,120,0.15);color:#EB5757;border-radius=
+:3px;font-size:85%;padding:0.2em 0.4em" data-token-index=3D"9" spellcheck=
+=3D"false" class=3D"notion-enable-hover">favorites.txt</span> file. </div><=
+/div></div></div></div><div data-block-id=3D"826944a1-b567-4f38-a4c5-f581c8=
+20d2ec" class=3D"notion-selectable notion-numbered_list-block" style=3D"wid=
+th: 100%; max-width: 1718px; margin-top: 1px; margin-bottom: 1px;"><div sty=
+le=3D"display: flex; align-items: flex-start; width: 100%; padding-left: 2p=
+x; color: inherit; fill: inherit;"><div contenteditable=3D"false" class=3D"=
+pseudoSelection" data-content-editable-void=3D"true" data-text-edit-side=3D=
+"start" style=3D"user-select: none; --pseudoSelection--background:transpare=
+nt; margin-right: 2px; width: unset; display: flex; align-items: center; ju=
+stify-content: center; flex-grow: 0; flex-shrink: 0; min-height: calc(1.5em=
+ + 3px + 3px);"><span class=3D"pseudoBefore" style=3D"--pseudoBefore--conte=
+nt:&quot;13.&quot;; text-align: center; white-space: nowrap; width: 24px;">=
+</span></div><div style=3D"flex: 1 1 0px; min-width: 1px; display: flex; fl=
+ex-direction: column;"><div style=3D"display: flex;"><div spellcheck=3D"tru=
+e" placeholder=3D"List" data-content-editable-leaf=3D"true" contenteditable=
+=3D"false" style=3D"max-width: 100%; width: 100%; white-space: pre-wrap; wo=
+rd-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-=
+align: left;">Push up the latest work on your <span style=3D"font-family:&q=
+uot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liber=
+ation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135=
+,131,120,0.15);color:#EB5757;border-radius:3px;font-size:85%;padding:0.2em =
+0.4em" data-token-index=3D"1" spellcheck=3D"false" class=3D"notion-enable-h=
+over">main</span> branch to Github.</div></div></div></div></div><div data-=
+block-id=3D"c63e9289-07e8-407d-9b3d-c7046e1cbc80" class=3D"notion-selectabl=
+e notion-text-block" style=3D"width: 100%; max-width: 1718px; margin-top: 1=
+px; margin-bottom: 0px;"><div style=3D"color: inherit; fill: inherit;"><div=
+ style=3D"display: flex;"><div spellcheck=3D"true" placeholder=3D" " data-c=
+ontent-editable-leaf=3D"true" contenteditable=3D"false" style=3D"max-width:=
+ 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-co=
+lor: rgb(55, 53, 47); padding: 3px 2px; min-height: 1em; color: rgb(55, 53,=
+ 47); -webkit-text-fill-color: rgba(55, 53, 47, 0.5);"></div></div></div></=
+div></div></div><div contenteditable=3D"false" data-content-editable-void=
+=3D"true" style=3D"width: 0px;"><div style=3D"display: none; flex-shrink: 0=
+; pointer-events: none; width: 0px; position: absolute; right: 192px; opaci=
+ty: 0;"><div style=3D"display: flex; flex-direction: column; padding: 5px 1=
+6px; width: 340px; flex-shrink: 0; height: 100%; position: relative; pointe=
+r-events: none; z-index: 1;"><div style=3D"position: absolute; pointer-even=
+ts: none; width: 100%; height: 100%; top: -5px; background: linear-gradient=
+(white 0px, rgba(255, 255, 255, 0) 15px);"></div></div></div></div></main><=
+span style=3D"height: 1px; width: 1px;"></span></div><div class=3D"notion-p=
+resence-container" style=3D"position: absolute; top: 0px; left: 0px; z-inde=
+x: 89;"><div></div></div></div></div></div><div class=3D"notion-peek-render=
+er" style=3D"position: fixed; top: 0px; right: 0px; bottom: 0px; width: 960=
+px; z-index: 109; transform: translateX(960px) translateZ(0px);"></div></di=
+v></div><div class=3D"notion-overlay-container notion-default-overlay-conta=
+iner" style=3D"position: fixed; inset: 0px; z-index: 999; pointer-events: n=
+one; overflow: hidden;"><div style=3D"position: relative; z-index: 0;"></di=
+v></div><div class=3D"notion-overlay-container" style=3D"position: fixed; i=
+nset: 0px; z-index: 1001; pointer-events: none; overflow: hidden;"><div sty=
+le=3D"position: relative; z-index: 0;"></div></div></div></div><textarea ar=
+ia-hidden=3D"true" style=3D"opacity: 0; pointer-events: none; position: fix=
+ed; left: 0px; top: 0px;"></textarea><textarea aria-hidden=3D"true" style=
+=3D"opacity: 0; pointer-events: none; position: fixed; left: 0px; top: 0px;=
+"></textarea><div style=3D"width: env(safe-area-inset-bottom);"></div><ifra=
+me sandbox=3D"allow-scripts allow-same-origin" style=3D"position: absolute;=
+ opacity: 0; width: 1px; height: 1px; top: 0; left: 0; border: none; displa=
+y: block; z-index: -1;" aria-hidden=3D"true" tabindex=3D"-1" referrerpolicy=
+=3D"no-referrer" src=3D"cid:frame-C8F57F69A5D189B50A398F4D3A539173@mhtml.bl=
+ink"></iframe><iframe id=3D"intercom-frame" style=3D"position: absolute !im=
+portant; opacity: 0 !important; width: 1px !important; height: 1px !importa=
+nt; top: 0 !important; left: 0 !important; border: none !important; display=
+: block !important; z-index: -1 !important; pointer-events: none;" aria-hid=
+den=3D"true" tabindex=3D"-1" title=3D"Intercom"></iframe><div class=3D"inte=
+rcom-lightweight-app"></div></body></html>
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8c3eb261-90d5-476e-ae7a-59dc9708c2b7@mhtml.blink
+
+@charset "utf-8";
+
+body { background: rgb(255, 255, 255); }
+
+body.dark { background: rgb(25, 25, 25); }
+
+@keyframes notion-shimmer-animation {=20
+  0% { transform: translateX(-100%) translateZ(0px); }
+  100% { transform: translateX(100%) translateZ(0px); }
+}
+
+@keyframes notion-shimmer-fade-in {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes notion-spinner-rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(360deg) translateZ(0px); }
+}
+
+#initial-loading-spinner { position: fixed; height: 100vh; width: 100vw; z-=
+index: -1; display: none; align-items: center; justify-content: center; opa=
+city: 0.5; }
+
+#initial-loading-spinner svg { height: 24px; width: 24px; animation: 1s lin=
+ear 0s infinite normal none running notion-spinner-rotate; transform-origin=
+: center center; pointer-events: none; }
+
+#skeleton { background: rgb(255, 255, 255); position: fixed; height: 100vh;=
+ width: 100vw; z-index: -1; display: none; overflow: hidden; }
+
+#initial-loading-spinner.show, #skeleton.show { display: flex; }
+
+body.dark #skeleton { background: rgb(25, 25, 25); }
+
+.notion-front-page #skeleton, .notion-mobile #skeleton { display: none; }
+
+#skeleton-sidebar { background-color: rgb(251, 251, 250); box-shadow: rgba(=
+0, 0, 0, 0.024) -1px 0px 0px 0px inset; display: flex; width: 240px; flex-d=
+irection: column; padding: 12px 14px; overflow: hidden; }
+
+body.dark #skeleton-sidebar { background-color: rgb(32, 32, 32); box-shadow=
+: rgba(255, 255, 255, 0.05) -1px 0px 0px 0px inset; }
+
+#skeleton.isElectron #skeleton-sidebar { padding-top: 46px; }
+
+#skeleton .row { display: flex; margin-bottom: 8px; align-items: center; }
+
+#skeleton .row.fadein { animation: 1s ease-in 0s 1 normal both running noti=
+on-shimmer-fade-in; }
+
+#skeleton .chevron { width: 12px; height: 12px; display: block; margin-righ=
+t: 4px; fill: rgba(227, 226, 224, 0.5); }
+
+body.dark #skeleton .chevron { fill: rgb(47, 47, 47); }
+
+.notion-shimmer { background: rgba(227, 226, 224, 0.5); overflow: hidden; p=
+osition: relative; }
+
+body.dark .notion-shimmer { background: rgb(47, 47, 47); }
+
+.notion-shimmer::before { content: ""; position: absolute; height: 100%; wi=
+dth: 100%; z-index: 1; animation: 1s linear 0s infinite normal none running=
+ notion-shimmer-animation; background: linear-gradient(90deg, transparent 0=
+px, rgba(255, 255, 255, 0.4) 50%, transparent 100%); }
+
+body.dark .notion-shimmer::before { background: linear-gradient(90deg, tran=
+sparent 0px, rgba(86, 86, 86, 0.4) 50%, transparent 100%); }
+
+#skeleton .icon { width: 20px; height: 20px; border-radius: 4px; }
+
+#skeleton .text { height: 10px; border-radius: 10px; }
+
+#skeleton .draggable { app-region: drag; position: absolute; top: 0px; left=
+: 0px; width: 100%; height: 36px; display: none; }
+
+#skeleton.isElectron .draggable { display: block; }
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c47d85e3-90da-42aa-ae0a-af400f9515ed@mhtml.blink
+
+@charset "utf-8";
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+
+::-webkit-scrollbar { background: transparent; }
+
+::-webkit-scrollbar-track { background: rgb(237, 236, 233); }
+
+::-webkit-scrollbar-thumb { background: rgb(211, 209, 203); }
+
+::-webkit-scrollbar-thumb:hover { background: rgb(174, 172, 166); }
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-70ac673f-a597-460c-aa6a-3cf6c1c99d25@mhtml.blink
+
+@charset "utf-8";
+
+@keyframes intercom-lightweight-app-launcher {=20
+  0% { opacity: 0; transform: scale(0.5); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+@keyframes intercom-lightweight-app-gradient {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes intercom-lightweight-app-messenger {=20
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.intercom-lightweight-app { position: fixed; z-index: 2147483001; width: 0p=
+x; height: 0px; font-family: intercom-font, "Helvetica Neue", "Apple Color =
+Emoji", Helvetica, Arial, sans-serif; }
+
+.intercom-lightweight-app-gradient { position: fixed; z-index: 2147483002; =
+width: 500px; height: 500px; bottom: 0px; right: 0px; pointer-events: none;=
+ background: radial-gradient(at right bottom, rgba(29, 39, 54, 0.16) 0%, rg=
+ba(29, 39, 54, 0) 72%); animation: 200ms ease-out 0s 1 normal none running =
+intercom-lightweight-app-gradient; }
+
+.intercom-lightweight-app-launcher { position: fixed; z-index: 2147483003; =
+border: none; bottom: 20px; right: 20px; max-width: 60px; width: 60px; max-=
+height: 60px; height: 60px; border-radius: 50%; background: rgb(84, 98, 112=
+); cursor: pointer; box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 6px 0px, rgba(0=
+, 0, 0, 0.16) 0px 2px 32px 0px; transition: transform 167ms cubic-bezier(0.=
+33, 0, 0, 1) 0s; box-sizing: content-box; padding: 0px !important; margin: =
+0px !important; }
+
+.intercom-lightweight-app-launcher:focus { outline: none; }
+
+.intercom-lightweight-app-launcher-icon { display: flex; align-items: cente=
+r; justify-content: center; position: absolute; top: 0px; left: 0px; width:=
+ 60px; height: 60px; transition: transform 100ms linear 0s, opacity 80ms li=
+near 0s; }
+
+.intercom-lightweight-app-launcher-icon-open { opacity: 1; transform: rotat=
+e(0deg) scale(1); }
+
+.intercom-lightweight-app-launcher-icon-open svg { width: 28px; height: 32p=
+x; }
+
+.intercom-lightweight-app-launcher-icon-open svg path { fill: rgb(255, 255,=
+ 255); }
+
+.intercom-lightweight-app-launcher-icon-self-serve { opacity: 1; transform:=
+ rotate(0deg) scale(1); }
+
+.intercom-lightweight-app-launcher-icon-self-serve svg { height: 56px; }
+
+.intercom-lightweight-app-launcher-icon-self-serve svg path { fill: rgb(255=
+, 255, 255); }
+
+.intercom-lightweight-app-launcher-custom-icon-open { max-height: 36px; max=
+-width: 36px; opacity: 1; transform: rotate(0deg) scale(1); }
+
+.intercom-lightweight-app-launcher-icon-minimize { opacity: 0; transform: r=
+otate(-60deg) scale(0); }
+
+.intercom-lightweight-app-launcher-icon-minimize svg path { fill: rgb(255, =
+255, 255); }
+
+.intercom-lightweight-app-messenger { position: fixed; z-index: 2147483003;=
+ overflow: hidden; background-color: white; animation: 250ms cubic-bezier(0=
+, 1.2, 1, 1) 0s 1 normal none running intercom-lightweight-app-messenger; t=
+ransform-origin: right bottom; width: 376px; height: calc(100% - 40px); max=
+-height: 704px; min-height: 250px; right: 20px; bottom: 20px; box-shadow: r=
+gba(0, 0, 0, 0.16) 0px 5px 40px; border-radius: 8px; }
+
+.intercom-lightweight-app-messenger-header { height: 75px; border-bottom: n=
+one; background: linear-gradient(135deg, rgb(0, 172, 193) 0%, rgb(0, 81, 91=
+) 100%); }
+
+.intercom-lightweight-app-messenger-footer { position: absolute; bottom: 0p=
+x; width: 100%; min-height: 81px; background: rgb(255, 255, 255); font-size=
+: 14px; line-height: 21px; border-top: 1px solid rgba(0, 0, 0, 0.05); box-s=
+hadow: rgba(0, 0, 0, 0.05) 0px 0px 25px; }
+
+@media print {
+  .intercom-lightweight-app { display: none; }
+}
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.notion.so/print.b31f28aa.css
+
+@charset "utf-8";
+
+html, body, #notion-app { -webkit-print-color-adjust: exact; height: auto !=
+important; overflow: auto !important; font-size: 14px !important; padding: =
+0px !important; margin: 0px !important; }
+
+.notion-help-button, .notion-print-ignore, .notion-overlay-container, .noti=
+on-sidebar-container, .notion-presence-container, .notion-topbar, .notion-t=
+opbar-export-popup, .notion-selectable-halo, .notion-help-button, .notion-p=
+age-controls { display: none !important; }
+
+.notion-frame { -webkit-print-color-adjust: exact; width: 100% !important; =
+height: auto !important; border: none !important; padding: 0px !important; =
+margin: 0px !important; }
+
+.notion-scroller { height: auto !important; width: 100% !important; max-hei=
+ght: none !important; max-width: none !important; overflow: visible !import=
+ant; padding: 0px !important; margin: 0px !important; display: block !impor=
+tant; }
+
+html { height: auto !important; overflow: auto !important; font-size: 14px =
+!important; }
+
+.notion-invoice { height: auto !important; }
+
+.notion-code-block > div { white-space: normal !important; }
+
+.notion-selectable { break-inside: avoid; position: relative; overflow: ini=
+tial; min-height: 0px; max-width: none !important; }
+
+.notion-page-content { position: relative; overflow: initial; min-height: 0=
+px; display: block !important; width: 100% !important; }
+
+@page { size: auto; margin: 20mm 0px; }
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.notion.so/app-458b27cf2746fa5c5a6a.css
+
+@charset "utf-8";
+
+@font-face { font-family: Lyon-Text; src: url("/lyon-text-regular-3be84b20b=
+1d9ff1e3456b0a220ae449b.woff") format("woff"); font-style: normal; font-wei=
+ght: 400; }
+
+@font-face { font-family: Lyon-Text; src: url("/lyon-text-regular-italic-43=
+7d32a42fc5b8268bb4a1e0cc8b363f.woff") format("woff"); font-style: italic; f=
+ont-weight: 400; }
+
+@font-face { font-family: Lyon-Text; src: url("/lyon-text-semibold-acb7f110=
+189034ff6a1afa4b730be0ed.woff") format("woff"); font-style: normal; font-we=
+ight: 600; }
+
+@font-face { font-family: Lyon-Text; src: url("/lyon-text-semibold-italic-1=
+f81a2f93060f05edd7f078ac91f25e6.woff") format("woff"); font-style: italic; =
+font-weight: 600; }
+
+@font-face { font-family: iawriter-mono; src: url("/iawriter-mono-regular-4=
+b73d071988a4f1cd2283524716ad970.woff") format("woff"); font-style: normal; =
+font-weight: 400; }
+
+@font-face { font-family: iawriter-mono; src: url("/iawriter-mono-italic-d5=
+d3224c1377168e261efc6aa0ce89c6.woff") format("woff"); font-style: italic; f=
+ont-weight: 400; }
+
+@font-face { font-family: iawriter-mono; src: url("/iawriter-mono-bold-eb96=
+a5e539892d26cf8b0cb2367e3580.woff") format("woff"); font-style: normal; fon=
+t-weight: 600; }
+
+@font-face { font-family: iawriter-mono; src: url("/iawriter-mono-bold-ital=
+ic-743b231fa82483406c79a00fa1f12fe8.woff") format("woff"); font-style: ital=
+ic; font-weight: 600; }
+
+@font-face { font-family: inter; src: url("/inter-ui-regular-3ae6a7d3890c33=
+d857fc00bd2e4c4820.woff") format("woff"); font-style: normal; font-weight: =
+400; }
+
+@font-face { font-family: inter; src: url("/inter-ui-medium-95b8a98959d1af9=
+ab432d7ffe295ef94.woff") format("woff"); font-style: normal; font-weight: 5=
+00; }
+
+@font-face { font-family: inter; src: url("/inter-ui-semibold-19b57197b8196=
+95d334b9961ee41910e.woff") format("woff"); font-style: normal; font-weight:=
+ 600; }
+
+@font-face { font-family: inter; src: url("/inter-ui-bold-001893789f7f342b5=
+20f29ac8af7d6ca.woff") format("woff"); font-style: normal; font-weight: 700=
+; }
+
+@font-face { font-family: permanent-marker; src: url("/permanent-marker-a6d=
+62939e7c920a184ddddcf4149e62c.woff") format("woff"); font-style: normal; fo=
+nt-weight: 400; }
+
+.notion-frame .katex-display .katex { padding-right: 32px; }
+
+.notion-frame .katex > .katex-html { white-space: normal; }
+
+.notion-frame .katex-display .base { margin-top: 2px; margin-bottom: 2px; }
+
+.notion-frame .notion-text-equation-token .katex { line-height: 1; }
+
+html { font-family: sans-serif; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, =
+menu, nav, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; vertical-align: bas=
+eline; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+[hidden], template { display: none; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline: 0px; }
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+img { border: 0px; }
+
+svg:not(:root) { overflow: hidden; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; }
+
+code, kbd, pre, samp { font-family: inherit; }
+
+button, input, optgroup, select, textarea { color: inherit; font: inherit; =
+margin: 0px; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, html input[type=3D"button"], input[type=3D"reset"], input[type=3D"s=
+ubmit"] { appearance: button; cursor: pointer; }
+
+button[disabled], html input[disabled] { cursor: default; }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { box-sizing: border-box; p=
+adding: 0px; }
+
+input[type=3D"number"]::-webkit-inner-spin-button, input[type=3D"number"]::=
+-webkit-outer-spin-button { height: auto; }
+
+input[type=3D"search"] { appearance: textfield; box-sizing: content-box; }
+
+input[type=3D"search"]::-webkit-search-cancel-button, input[type=3D"search"=
+]::-webkit-search-decoration { appearance: none; }
+
+fieldset { border: 1px solid rgb(192, 192, 192); margin: 0px 2px; padding: =
+0.35em 0.625em 0.75em; }
+
+legend { border: 0px; padding: 0px; }
+
+textarea { overflow: auto; }
+
+optgroup { font-weight: bold; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+td, th { padding: 0px; }
+
+.notion-link { transition: all 100ms ease-in 0s; }
+
+.notion-link:hover { color: rgb(235, 87, 87) !important; }
+
+.notion-link-ai-version { transition: all 100ms ease-in 0s; }
+
+.notion-link-ai-version:hover { color: rgb(202, 89, 255) !important; }
+
+.notion-ai-icon { transition: all 100ms ease-in 0s; }
+
+.notion-ai-icon:hover { filter: brightness(1.3); }
+
+.notion-mobile-tapping { opacity: 0.6; }
+
+.notion-reminder.notion-enable-hover:hover { text-decoration: underline; }
+
+.notion-token-remove-button:hover { opacity: 0.8; }
+
+.notion-notion-external-object, .notion-page-mention-token { box-shadow: rg=
+ba(148, 148, 148, 0) 0px 0px 0px 3px; }
+
+.notion-page-mention-token.notion-enable-hover:hover, .notion-external-obje=
+ct-token.notion-enable-hover:hover { background: rgba(148, 148, 148, 0.15);=
+ box-shadow: rgba(148, 148, 148, 0.15) 0px 0px 0px 3px; border-radius: 1px;=
+ cursor: pointer !important; }
+
+.notion-page-mention-token::selection, .notion-external-object-token::selec=
+tion { background: rgba(35, 131, 226, 0.14); }
+
+.notion-focusable { transition: box-shadow 300ms ease 0s; }
+
+.notion-focusable-within:focus-within { box-shadow: rgba(35, 131, 226, 0.57=
+) 0px 0px 0px 1px inset, rgba(35, 131, 226, 0.35) 0px 0px 0px 2px !importan=
+t; }
+
+.notion-focusable:focus-visible { box-shadow: rgba(35, 131, 226, 0.57) 0px =
+0px 0px 1px inset, rgba(35, 131, 226, 0.35) 0px 0px 0px 2px !important; }
+
+.notion-cursor-default { cursor: default; }
+
+.notion-cursor-pointer { cursor: pointer; }
+
+.notion-sidebar-container, .notion-topbar { cursor: default; }
+
+.notion-disable-local-cursor .notion-sidebar-container, .notion-disable-loc=
+al-cursor .notion-topbar, .notion-disable-local-cursor .notion-cursor-defau=
+lt, .notion-disable-local-cursor .notion-cursor-pointer { cursor: inherit; =
+}
+
+.notion-disable-webkit-user-select, .notion-disable-webkit-user-select * { =
+user-select: none; }
+
+#notion-app a { cursor: inherit; }
+
+.notion-fadein { animation: 330ms ease-in 0s 1 normal none running fadein; =
+}
+
+.notion-fadein-fast { animation: 230ms ease-in 0s 1 normal none running fad=
+ein; }
+
+.notion-fadein-slow { animation: 600ms ease-in 0s 1 normal none running fad=
+ein; }
+
+@keyframes fadein {=20
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.line-numbers .line-numbers-rows { border-right: none !important; }
+
+.line-numbers-rows > span::before { color: rgb(204, 204, 204) !important; }
+
+.notion-mobile * { -webkit-tap-highlight-color: transparent; }
+
+html.notion-html, body.notion-body, #notion-app { height: 100vh; overflow: =
+hidden; position: relative; background-color: transparent; }
+
+.notion-app-inner { height: 100%; }
+
+html.notion-mobile:not(.notion-front-page) div:not([contenteditable]) { use=
+r-select: none; }
+
+html.notion-mobile:not(.notion-front-page) body:not(.notion-disable-webkit-=
+user-select) [contenteditable] { user-select: text; }
+
+html.notion-front-page, html.notion-front-page body, html.notion-front-page=
+ #notion-app { height: initial; overflow: initial; background: rgb(255, 254=
+, 252); }
+
+html.notion-front-page body.disable-scroll { overflow: hidden; }
+
+html.notion-front-page .notion-app-inner { height: initial; }
+
+[contenteditable]:empty::after, .forcePlaceholder::after { content: attr(pl=
+aceholder); }
+
+#intercom-container { z-index: 1000 !important; }
+
+.token.operator.operator { background: transparent; }
+
+#box-app-container > div { position: absolute; background: rgba(255, 255, 2=
+55, 0.5); height: 100vh; width: 100vw; z-index: 1000; top: 0px; display: fl=
+ex; align-items: center; justify-content: center; }
+
+#box-app-container .be-app-element { width: calc(100% - 150px); height: cal=
+c(100% - 150px); background: white; box-shadow: rgba(0, 0, 0, 0.25) 0px 1px=
+ 4px; max-width: 1150px; max-height: 620px; }
+
+.loading-spinner { animation: 1000ms linear 0s infinite normal none running=
+ rotate; transform-origin: center center; width: 1em; height: 1em; opacity:=
+ 0.5; display: block; pointer-events: none; }
+
+@-webkit-keyframes rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(360deg) translateZ(0px); }
+}
+
+@keyframes rotate {=20
+  0% { transform: rotate(0deg) translateZ(0px); }
+  100% { transform: rotate(360deg) translateZ(0px); }
+}
+
+.sync-spinner { animation: 2500ms linear 0s infinite normal none running ro=
+tate; transform-origin: center center; display: block; pointer-events: none=
+; }
+
+.notion-sidebar-loading-skeleton-shimmer { overflow: hidden; position: rela=
+tive; }
+
+.notion-sidebar-loading-skeleton-shimmer::before { content: ""; position: a=
+bsolute; height: 100%; width: 100%; z-index: 1; animation: 1s ease 0s infin=
+ite normal none running shimmer; }
+
+.notion-light-theme .notion-sidebar-loading-skeleton-shimmer::before { back=
+ground: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 25=
+5, 0.4) 50%, rgba(255, 255, 255, 0) 100%); }
+
+.notion-dark-theme .notion-sidebar-loading-skeleton-shimmer::before { backg=
+round: linear-gradient(90deg, rgba(86, 86, 86, 0) 0%, rgba(86, 86, 86, 0.4)=
+ 50%, rgba(86, 86, 86, 0) 100%); }
+
+@keyframes shimmer {=20
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+input[type=3D"range"] { appearance: none; background: transparent; }
+
+input[type=3D"range"]::-webkit-slider-thumb { box-shadow: rgba(0, 0, 0, 0.2=
+5) 0px 1px 4px; border: 0.5px solid var(--inputRangeThumb--borderColor); he=
+ight: 14px; width: 14px; border-radius: 50%; background: var(--inputRangeTh=
+umb--background); cursor: pointer; appearance: none; margin-top: -4px; }
+
+input[type=3D"range"]::-webkit-slider-runnable-track { appearance: none; wi=
+dth: 100%; height: 6px; background: var(--inputRangeTrack--color); border-r=
+adius: 10px; cursor: pointer; }
+
+.notion-quote { position: relative; }
+
+.notion-quote::before { content: "=E2=80=9C"; position: absolute; left: -0.=
+5em; opacity: 0.6; }
+
+.notion-quote::after { content: "=E2=80=9D"; margin-left: 0.1em; opacity: 0=
+.6; }
+
+@media only screen and (max-width: 1020px) {
+  .br-desktop { display: none; }
+}
+
+.pretty-json-container .variable-value > * > * { cursor: pointer !important=
+; }
+
+.editor-force-select { user-select: auto !important; }
+
+.width-max-content { width: -webkit-max-content; }
+
+.hidden { display: none !important; }
+
+input.input-hide-arrows::-webkit-outer-spin-button, input.input-hide-arrows=
+::-webkit-inner-spin-button { appearance: none; margin: 0px; }
+
+input[type=3D"number"].input-hide-arrows { }
+
+@keyframes leftOrRight {=20
+  0% { left: -50%; }
+  100% { left: 250%; }
+}
+
+.pseudoAfter::after { color: var(--pseudoAfter--color); content: var(--pseu=
+doAfter--content); border: var(--pseudoAfter--border); width: var(--pseudoA=
+fter--width); height: var(--pseudoAfter--height); display: var(--pseudoAfte=
+r--display); background: var(--pseudoAfter--background); }
+
+.pseudoBefore::before { color: var(--pseudoBefore--color); content: var(--p=
+seudoBefore--content); border: var(--pseudoBefore--border); width: var(--ps=
+eudoBefore--width); height: var(--pseudoBefore--height); background: var(--=
+pseudoBefore--background); font-family: var(--pseudoBefore--fontFamily); di=
+splay: var(--pseudoBefore--display)  !important; }
+
+.pseudoSelection ::selection, .pseudoSelection::selection { color: var(--ps=
+eudoSelection--color); -webkit-text-fill-color: var(--pseudoSelection--Webk=
+itTextFillColor); background: var(--pseudoSelection--background); text-shad=
+ow: var(--pseudoSelection--textShadow); }
+
+.whenContentEditable[contenteditable=3D"true"] { caret-color: var(--whenCon=
+tentEditable--caretColor); -webkit-user-modify: var(--whenContentEditable--=
+WebkitUserModify); }
+
+[data-content-editable-selecting=3D"true"] .whenRootSelecting { display: va=
+r(--whenRootSelecting--display)  !important; }
+
+.whenFocusedEditable[contenteditable=3D"true"]:focus, [contenteditable=3D"t=
+rue"]:focus-within .whenFocusedEditable { -webkit-user-modify: var(--whenFo=
+cusedEditable--WebkitUserModify)  !important; user-select: var(--whenFocuse=
+dEditable--userSelect)  !important; }
+
+[data-content-editable-composing=3D"true"] .pseudoAfterWhenComposing::after=
+ { display: var(--pseudoAfterWhenComposing--display)  !important; }
+
+.rdt { position: relative; user-select: none; }
+
+.rdtPicker { display: none; position: absolute; width: 100%; margin-top: 1p=
+x; background: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3=
+px; }
+
+.rdtOpen .rdtPicker { display: block; }
+
+.rdtStatic .rdtPicker { box-shadow: none; position: static; }
+
+.rdtPicker .rdtTimeToggle { text-align: center; }
+
+.rdtPicker table { width: 100%; margin: 0px; }
+
+.rdtPicker td, .rdtPicker th { text-align: center; height: 28px; }
+
+.rdtPicker td.rdtDay:hover, .rdtPicker td.rdtToday:hover, .rdtPicker td.rdt=
+Hour:hover, .rdtPicker td.rdtMinute:hover, .rdtPicker td.rdtSecond:hover, .=
+rdtPicker .rdtTimeToggle:hover { background: rgb(238, 238, 238); cursor: po=
+inter; }
+
+.rdtPicker td.rdtOld, .rdtPicker td.rdtNew { color: rgb(153, 153, 153); }
+
+.rdtPicker td.rdtToday { position: relative; }
+
+.rdtPicker td.rdtToday::before { content: ""; display: inline-block; border=
+-left: 7px solid transparent; border-bottom: 7px solid rgb(66, 139, 202); b=
+order-top-color: rgba(0, 0, 0, 0.2); position: absolute; bottom: 4px; right=
+: 4px; }
+
+.rdtPicker td.rdtActive, .rdtPicker td.rdtActive:hover { background-color: =
+rgb(66, 139, 202); color: rgb(255, 255, 255); text-shadow: rgba(0, 0, 0, 0.=
+25) 0px -1px 0px; }
+
+.rdtPicker td.rdtActive.rdtToday::before { border-bottom-color: rgb(255, 25=
+5, 255); }
+
+.rdtPicker td.rdtDisabled, .rdtPicker td.rdtDisabled:hover { background: no=
+ne; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker td span.rdtOld { color: rgb(153, 153, 153); }
+
+.rdtPicker td span.rdtDisabled, .rdtPicker td span.rdtDisabled:hover { back=
+ground: none; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker .dow { width: 14.2857%; border-bottom: none; }
+
+.rdtPicker th.rdtSwitch { width: 100px; }
+
+.rdtPicker th.rdtNext, .rdtPicker th.rdtPrev { font-size: 21px; vertical-al=
+ign: top; }
+
+.rdtPicker th.rdtDisabled, .rdtPicker th.rdtDisabled:hover { background: no=
+ne; color: rgb(153, 153, 153); cursor: not-allowed; }
+
+.rdtPicker thead tr:first-child th { cursor: pointer; }
+
+.rdtPicker thead tr:first-child th:hover { background: rgb(238, 238, 238); =
+}
+
+.rdtPicker tfoot { border-top: 1px solid rgb(249, 249, 249); }
+
+.rdtPicker button { border: none; background: none; cursor: pointer; }
+
+.rdtPicker button:hover { background-color: rgb(238, 238, 238); }
+
+.rdtPicker thead button { width: 100%; height: 100%; }
+
+td.rdtMonth, td.rdtYear { height: 50px; width: 25%; cursor: pointer; }
+
+td.rdtMonth:hover, td.rdtYear:hover { background: rgb(238, 238, 238); }
+
+.rdtCounters { display: inline-block; }
+
+.rdtCounters > div { float: left; }
+
+.rdtCounter { height: 100px; }
+
+.rdtCounter { width: 40px; }
+
+.rdtCounterSeparator { line-height: 100px; }
+
+.rdtCounter .rdtBtn { height: 40%; line-height: 40px; cursor: pointer; }
+
+.rdtCounter .rdtBtn:hover { background: rgb(238, 238, 238); }
+
+.rdtCounter .rdtCount { height: 20%; font-size: 1.2em; }
+
+.rdtMilli { vertical-align: middle; padding-left: 8px; width: 48px; }
+
+.rdtMilli input { width: 100%; font-size: 1.2em; margin-top: 37px; }
+
+*, :focus { outline: 0px; }
+
+* { box-sizing: border-box; }
+
+table > tr { vertical-align: top; }
+
+::-webkit-input-placeholder { color: inherit; opacity: 0.375; }
+
+::-webkit-contacts-auto-fill-button { visibility: hidden; pointer-events: n=
+one; position: absolute; right: 0px; display: none !important; }
+
+::selection { background: rgba(35, 131, 226, 0.28); }
+
+#notion-app b { font-weight: 600; }
+
+[contenteditable] { -webkit-tap-highlight-color: transparent; }
+
+@keyframes pulse-ring {=20
+  0% { transform: scale(0.33); }
+  80%, 100% { opacity: 0; }
+}
+
+@keyframes pulse-dot {=20
+  0% { transform: scale(0.8); }
+  50% { transform: scale(1); }
+  100% { transform: scale(0.8); }
+}
+
+@keyframes bounce-left {=20
+  0% { transform: translateX(-200%); }
+  25% { transform: translateX(-199%); }
+  100% { transform: translateX(0%); }
+}
+
+@keyframes pulsing-button-border {=20
+  0% { border-color: rgb(35, 131, 226); }
+  50% { border-color: rgba(35, 131, 226, 0); }
+  100% { border-color: rgb(35, 131, 226); }
+}
+
+@keyframes pulsing-button {=20
+  0% { filter: brightness(1); }
+  50% { filter: brightness(1.15); }
+  100% { filter: brightness(1); }
+}
+
+.front-fadein-slow { animation: 500ms ease-in 0s 1 normal none running fade=
+in; }
+
+.front-fadein-fast { animation: 150ms ease-in 0s 1 normal none running fade=
+in; }
+
+.hide-scrollbar { }
+
+.hide-scrollbar::-webkit-scrollbar { width: 0px !important; height: 0px !im=
+portant; }
+
+.notion-light-theme code[class*=3D"language-"], .notion-light-theme pre[cla=
+ss*=3D"language-"] { color: black; background: none; text-shadow: white 0px=
+ 1px; font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospac=
+e; font-size: 1em; text-align: left; white-space: pre; word-spacing: normal=
+; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4;=
+ hyphens: none; }
+
+.notion-light-theme pre[class*=3D"language-"]::selection, .notion-light-the=
+me pre[class*=3D"language-"] ::selection, .notion-light-theme code[class*=
+=3D"language-"]::selection, .notion-light-theme code[class*=3D"language-"] =
+::selection { text-shadow: none; background: rgb(179, 212, 252); }
+
+@media print {
+  .notion-light-theme code[class*=3D"language-"], .notion-light-theme pre[c=
+lass*=3D"language-"] { text-shadow: none; }
+}
+
+.notion-light-theme pre[class*=3D"language-"] { padding: 1em; margin: 0.5em=
+ 0px; overflow: auto; }
+
+.notion-light-theme :not(pre) > code[class*=3D"language-"], .notion-light-t=
+heme pre[class*=3D"language-"] { background: rgb(245, 242, 240); }
+
+.notion-light-theme :not(pre) > code[class*=3D"language-"] { padding: 0.1em=
+; border-radius: 0.3em; white-space: normal; }
+
+.notion-light-theme .token.comment, .notion-light-theme .token.prolog, .not=
+ion-light-theme .token.doctype, .notion-light-theme .token.cdata { color: s=
+lategray; }
+
+.notion-light-theme .token.punctuation { color: rgb(153, 153, 153); }
+
+.notion-light-theme .token.namespace { opacity: 0.7; }
+
+.notion-light-theme .token.property, .notion-light-theme .token.tag, .notio=
+n-light-theme .token.boolean, .notion-light-theme .token.number, .notion-li=
+ght-theme .token.constant, .notion-light-theme .token.symbol, .notion-light=
+-theme .token.deleted { color: rgb(153, 0, 85); }
+
+.notion-light-theme .token.selector, .notion-light-theme .token.attr-name, =
+.notion-light-theme .token.string, .notion-light-theme .token.char, .notion=
+-light-theme .token.builtin, .notion-light-theme .token.inserted { color: r=
+gb(102, 153, 0); }
+
+.notion-light-theme .token.operator, .notion-light-theme .token.entity, .no=
+tion-light-theme .token.url, .notion-light-theme .language-css .token.strin=
+g, .notion-light-theme .style .token.string { color: rgb(154, 110, 58); bac=
+kground: rgba(255, 255, 255, 0.5); }
+
+.notion-light-theme .token.atrule, .notion-light-theme .token.attr-value, .=
+notion-light-theme .token.keyword { color: rgb(0, 119, 170); }
+
+.notion-light-theme .token.function, .notion-light-theme .token.class-name =
+{ color: rgb(221, 74, 104); }
+
+.notion-light-theme .token.regex, .notion-light-theme .token.important, .no=
+tion-light-theme .token.variable { color: rgb(238, 153, 0); }
+
+.notion-light-theme .token.important, .notion-light-theme .token.bold { fon=
+t-weight: bold; }
+
+.notion-light-theme .token.italic { font-style: italic; }
+
+.notion-light-theme .token.entity { cursor: help; }
+
+.notion-dark-theme code[class*=3D"language-"], .notion-dark-theme pre[class=
+*=3D"language-"] { color: white; background: none; text-shadow: black 0px -=
+0.1em 0.2em; font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", m=
+onospace; font-size: 1em; text-align: left; white-space: pre; word-spacing:=
+ normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-s=
+ize: 4; hyphens: none; }
+
+@media print {
+  .notion-dark-theme code[class*=3D"language-"], .notion-dark-theme pre[cla=
+ss*=3D"language-"] { text-shadow: none; }
+}
+
+.notion-dark-theme pre[class*=3D"language-"], .notion-dark-theme :not(pre) =
+> code[class*=3D"language-"] { background: rgb(77, 64, 51); }
+
+.notion-dark-theme pre[class*=3D"language-"] { padding: 1em; margin: 0.5em =
+0px; overflow: auto; border: 0.3em solid rgb(122, 102, 82); border-radius: =
+0.5em; box-shadow: black 1px 1px 0.5em inset; }
+
+.notion-dark-theme :not(pre) > code[class*=3D"language-"] { padding: 0.15em=
+ 0.2em 0.05em; border-radius: 0.3em; border: 0.13em solid rgb(122, 102, 82)=
+; box-shadow: black 1px 1px 0.3em -0.1em inset; white-space: normal; }
+
+.notion-dark-theme .token.comment, .notion-dark-theme .token.prolog, .notio=
+n-dark-theme .token.doctype, .notion-dark-theme .token.cdata { color: rgb(1=
+53, 128, 102); }
+
+.notion-dark-theme .token.punctuation { opacity: 0.7; }
+
+.notion-dark-theme .token.namespace { opacity: 0.7; }
+
+.notion-dark-theme .token.property, .notion-dark-theme .token.tag, .notion-=
+dark-theme .token.boolean, .notion-dark-theme .token.number, .notion-dark-t=
+heme .token.constant, .notion-dark-theme .token.symbol { color: rgb(209, 14=
+8, 158); }
+
+.notion-dark-theme .token.selector, .notion-dark-theme .token.attr-name, .n=
+otion-dark-theme .token.string, .notion-dark-theme .token.char, .notion-dar=
+k-theme .token.builtin, .notion-dark-theme .token.inserted { color: rgb(189=
+, 224, 82); }
+
+.notion-dark-theme .token.operator, .notion-dark-theme .token.entity, .noti=
+on-dark-theme .token.url, .notion-dark-theme .language-css .token.string, .=
+notion-dark-theme .style .token.string, .notion-dark-theme .token.variable =
+{ color: rgb(245, 184, 61); }
+
+.notion-dark-theme .token.atrule, .notion-dark-theme .token.attr-value, .no=
+tion-dark-theme .token.keyword { color: rgb(209, 148, 158); }
+
+.notion-dark-theme .token.regex, .notion-dark-theme .token.important { colo=
+r: rgb(238, 153, 0); }
+
+.notion-dark-theme .token.important, .notion-dark-theme .token.bold { font-=
+weight: bold; }
+
+.notion-dark-theme .token.italic { font-style: italic; }
+
+.notion-dark-theme .token.entity { cursor: help; }
+
+.notion-dark-theme .token.deleted { color: red; }
+
+.react-pdf__Page { padding-bottom: 8px; }
+
+.react-pdf__Page__textContent { position: absolute; cursor: text; top: 0px =
+!important; left: 0px !important; transform: none !important; }
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55e2e410-0187-4558-9abc-7950132ea7d5%2FOctocat.png?table=block&id=1c122003-26db-47d7-8907-02017602d698&spaceId=e27c5d62-901a-4553-9c27-b48cbeddd84a&width=40&userId=&cache=v2
+
+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
+
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.notion.so/images/page-cover/solid_yellow.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFoAAAAtCAYAAAAuj3x7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAA
+AXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABcSURBVHgB7dCxDQAwCMAwbuzDvYsJrmBAeMge
+OfK/0nyxaRa0QIMGLdCgBRo0aIEGLdCgQQs0aIEGDVqgQQs0aNACDVqgQYMWaNACDRq0QIMWaNCg
+BRq0QIM+UgNovgczrlHqMAAAAABJRU5ErkJggg==
+
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F55e2e410-0187-4558-9abc-7950132ea7d5%2FOctocat.png?table=block&id=1c122003-26db-47d7-8907-02017602d698&spaceId=e27c5d62-901a-4553-9c27-b48cbeddd84a&width=250&userId=&cache=v2
+
+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
+wu4vcButQgAAAABJRU5ErkJggg==
+
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/html
+Content-ID: <frame-C8F57F69A5D189B50A398F4D3A539173@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://aif.notion.so/aif-production.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><meta http-equiv=3D"origin-trial" cont=
+ent=3D"A751Xsk4ZW3DVQ8WZng2Dk5s3YzAyqncTzgv+VaE6wavgTY0QHkDvUTET1o7HanhuJO8=
+lgv1Vvc88Ij78W1FIAAAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2V=
+yLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNj=
+gwNjUyNzk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head><body><img width=3D"0" heigh=
+t=3D"0" src=3D"https://segment.prod.bidr.io/associate-segment?buzz_key=3Dta=
+tari&amp;segment_key=3Dtatari-2533&amp;value=3D&amp;uncacheplz=3D7656152063=
+" alt=3D"" style=3D"display: none;"></body></html>
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://segment.prod.bidr.io/associate-segment?buzz_key=tatari&segment_key=tatari-2533&value=&uncacheplz=7656152063
+
+R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
+
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft----
+Content-Type: text/html
+Content-ID: <frame-F26C43A2FC1D754B2F428F47237557D2@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3DUTF-8">
+       =20
+      </head>
+      <body>
+     =20
+    </body></html>
+------MultipartBoundary--GqWq9JQtrjWD34UCKqM4YRYES60vhoY3ziglikDEft------
